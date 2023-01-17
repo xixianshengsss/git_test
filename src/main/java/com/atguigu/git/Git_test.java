@@ -6,5 +6,6 @@ public class Git_test {
         System.out.println("second tow commit");
         System.out.println("hot_fix");
         System.out.println("push github");
+        System.out.println("first push");
     }
 }
